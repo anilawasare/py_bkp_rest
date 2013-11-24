@@ -4,7 +4,7 @@ import ast
 import os
 from datetime import *
 from array import *
-config_path = "/home/anil/progs/pyprogs/finalcode"
+config_path = "./"
 arr = []
 TRUE = 1
 FALSE = 0
